@@ -1,4 +1,4 @@
-package Hellosts;
+package hellosts;
 
 public class HelloSTS {
 
@@ -8,7 +8,6 @@ public class HelloSTS {
 			nome = args[0];
 		}
 		System.out.println("Hello, " + nome);
-		
 	}
 
 }
